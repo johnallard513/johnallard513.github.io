@@ -1,8 +1,13 @@
 # johnallard513.github.io
 
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: [The title of your site]
-description: [A short description of your site's purpose]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My GitHub Site</title>
+</head>
+<body>
+    <h1>Welcome to My GitHub Page!</h1>
+    <p>This is a simple GitHub Pages site.</p>
+</body>
+</html>
