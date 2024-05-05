@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Welcome to My GitHub Page!</h1>
-    <p>This is a simple GitHub Pages site.</p>
+    <p>Hi! I'm John Allard, a data scientist with a passion for studying patterns in human behavior and user experience. My goals are to use any available data to help people and businesses make the best decisions for their long term goals. I believe the role of a data scientist is to communicate their results clearly and effectively, so that even someone who isn't an expert in the field can understand your findings. Python is my coding language of choise, but I also have experience in R and SQL. </p>
 </body>
 </html>
