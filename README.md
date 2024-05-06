@@ -12,6 +12,9 @@
 
 <p>Feel free to message me on  <a href="(https://www.linkedin.com/in/john-allard-26a62824b/)" target="_blank">LinkedIn</a><p>
 
+<p>Feel free to message me on <a href="https://www.linkedin.com/in/john-allard-26a62824b/" target="_blank" rel="noopener noreferrer">LinkedIn</a><p>
+
+
 <p>Feel free to message me on [LinkedIn](https://www.linkedin.com/in/john-allard-26a62824b/)<p>
 
 </body>
