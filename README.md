@@ -1,10 +1,10 @@
 # johnallard513.github.io
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My GitHub Site</title>
+    <title></title>
 </head>
 <body>
     <h1>Welcome to My GitHub Page!</h1>
