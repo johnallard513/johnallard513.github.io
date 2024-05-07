@@ -12,5 +12,10 @@
 
 <p>Feel free to message me on <a href="https://www.linkedin.com/in/john-allard-26a62824b/" target="_blank" rel="noopener noreferrer">LinkedIn</a><p>
 
+[Fuel Efficiency](https://github.com/johnallard513/Fuel_Efficiency)
+
+[AirBNB Prediction Model](https://github.com/johnallard513/AirBNBAnalysis)
+
+
 </body>
 </html>
