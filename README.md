@@ -14,10 +14,10 @@
 
 ## Portfolio
 
-<p>[Fuel Efficiency Study](https://github.com/johnallard513/Fuel_Efficiency) - This was originaly my milestone project in the MIT Applied Data Science Program. But after I finished the course, I expanded it to include a more thorough breakdown of the dataset by manufacturing year and specific engine features.</p>
+[Fuel Efficiency Study](https://github.com/johnallard513/Fuel_Efficiency)<p> - This was originaly my milestone project in the MIT Applied Data Science Program. But after I finished the course, I expanded it to include a more thorough breakdown of the dataset by manufacturing year and specific engine features.</p>
 
 
-<p>[AirBNB Prediction Model](https://github.com/johnallard513/AirBNBAnalysis) - This project was based on a Kaggle dataset of ~78000 AirBNB profiles. In it, I created neural networks to predict the review scores and prices of AirBNB rentals, and calculated which amenities had the greatest impact on the predictions.<p>
+[AirBNB Prediction Model](https://github.com/johnallard513/AirBNBAnalysis)<p> - This project was based on a Kaggle dataset of ~78000 AirBNB profiles. In it, I created neural networks to predict the review scores and prices of AirBNB rentals, and calculated which amenities had the greatest impact on the predictions.<p>
 
 
 </body>
